@@ -1,6 +1,22 @@
-# Personal - Projects
+# Personal Projects
+  Links to some of the projects I have contributed to.
 
-https://github.com/ioilmio/youtube-clone (As a code colaborator in the microverse pathwright)
-
-https://github.com/ioilmio/form (As a code colaborator in the microverse pathwright)
+## Microverse
+  As a Microverse full time student, this are the projects I have made so far
+  
+  ### Youtube Clone
+  https://github.com/ioilmio/youtube-clone 
+  As a code colaborator in the microverse pathwright
+  
+  ### Signup Clone
+  https://github.com/ioilmio/form
+  As a code colaborator in the microverse pathwright
+  
+  ### New York Times Clone
+  https://github.com/FrancoRosa/nyt-clone
+  As a code colaborator in the microverse pathwright
+  
+  ### Apple Clone
+  https://github.com/FrancoRosa/apple-clone
+  Solo Project in the microverse pathwright
 
