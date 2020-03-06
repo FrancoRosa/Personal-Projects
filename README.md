@@ -21,12 +21,10 @@
   Solo Project in the microverse pathwright
 
   ### Design Teardown 
-  from the https://www.smashingmagazine.com
   https://github.com/bettercallazamat/design-teardown-project
   As a code colaborator in the microverse pathwright
   
   ### The next web Clone 
-  from the https://thenextweb.com
   https://github.com/FrancoRosa/thenextweb-clone
   As a code colaborator in the microverse pathwright
   
